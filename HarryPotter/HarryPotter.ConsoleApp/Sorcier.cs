@@ -20,8 +20,6 @@ namespace HarryPotter.ConsoleApp
         {
             var formulesDisponibles = this.GetType().GetMethods(BindingFlags.NonPublic | BindingFlags.Instance);
 
-            var formulesNames = formulesDisponibles.Select(m => m.Name).ToList();
-
             if (!string.IsNullOrEmpty(formule) && formulesDisponibles.Select(m => m.Name).Contains(formule))
             {
                 var formuleChoisie = formulesDisponibles.Single(f => f.Name == formule);
