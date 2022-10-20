@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using HarryPotter.ConsoleApp;
+
+var harry = new Sorcier();
+
+while (harry.EstEnEntrainement)
+{
+    Console.WriteLine("Incantez une formule !");
+    harry.IncanterUnSort(Console.ReadLine() ?? string.Empty);
+}

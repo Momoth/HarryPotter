@@ -1,0 +1,15 @@
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\bin\Debug\net6.0\HarryPotter.ConsoleApp.exe
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\bin\Debug\net6.0\HarryPotter.ConsoleApp.deps.json
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\bin\Debug\net6.0\HarryPotter.ConsoleApp.runtimeconfig.json
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\bin\Debug\net6.0\HarryPotter.ConsoleApp.dll
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\bin\Debug\net6.0\HarryPotter.ConsoleApp.pdb
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.csproj.AssemblyReference.cache
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.AssemblyInfoInputs.cache
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.AssemblyInfo.cs
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.dll
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\refint\HarryPotter.ConsoleApp.dll
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.pdb
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\HarryPotter.ConsoleApp.genruntimeconfig.cache
+C:\Devs\HarryPotter\HarryPotter\HarryPotter.ConsoleApp\obj\Debug\net6.0\ref\HarryPotter.ConsoleApp.dll
